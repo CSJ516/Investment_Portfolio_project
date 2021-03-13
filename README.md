@@ -22,6 +22,8 @@
 - BeautifulSoup 로 Company Guide 사이트의 종목별 시가총액 데이터 수집
 - Selenium 으로 네이버 금융 사이트의 거래상위 테이블 수집
 
+#### :star2: Selenium 을 사용하기 위해 https://sites.google.com/a/chromium.org/chromedriver/ 에서 win32 버전 chromedriver 설치 :star2:
+
 ### 2. 포트폴리오 구현
 <b>:one: 안정형 (우량주)</b>
 - get_data_yahoo 로 업종별 시가총액 상위 5개 종목의 주가 데이터 수집
